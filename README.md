@@ -29,8 +29,12 @@ The main struct and functions include:
 
 ### Prerequisites
 
-Ensure you have Rust installed. You can install it from [rustup](https://rustup.rs/).
+To get started, ensure you have [Rust](https://www.rust-lang.org/tools/install) installed on your machine. You can then clone the repository and build the project:
 
+  ```
+ git clone https://github.com/cypriansakwa/Montgomery_Curve_Group_Law_Implementation_in_Rust.git
+ cd Montgomery_Curve_Group_Law_Implementation_in_Rust
+```
 Add the required dependencies to your `Cargo.toml`:
 ```toml
 [dependencies]
