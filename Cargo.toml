@@ -1,0 +1,8 @@
+[package]
+name = "Montgomery_Curve_Group_Law_Implementation_in_Rust"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+num-bigint = "0.4"  
+num-traits = "0.2" 
